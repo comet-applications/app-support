@@ -8,3 +8,4 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 ## Apps
 
 - [Automation Doctor](docs/automation-doctor/support.html)
+- [Trail Tel](docs/trail-tel/support.html)
