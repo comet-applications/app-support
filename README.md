@@ -7,6 +7,7 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 
 ## Apps
 
+- [Cordari](docs/cordari/support.html)
 - [Automation Doctor](docs/automation-doctor/support.html)
 - [Trail Tel](docs/trail-tel/support.html)
 - [Curio Courier](docs/curio-courier/support.html)
