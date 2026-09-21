@@ -7,6 +7,7 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 
 ## Apps
 
+- [Folire](docs/folire/support.html)
 - [Pigment Compass](docs/pigment-compass/support.html)
 - [Cordari](docs/cordari/support.html)
 - [Automation Doctor](docs/automation-doctor/support.html)
