@@ -13,3 +13,4 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 - [Automation Doctor](docs/automation-doctor/support.html)
 - [Trail Tel](docs/trail-tel/support.html)
 - [Curio Courier](docs/curio-courier/support.html)
+- [FoldLab](docs/foldlab/support.html)
