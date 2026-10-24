@@ -14,3 +14,4 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 - [Trail Tel](docs/trail-tel/support.html)
 - [Curio Courier](docs/curio-courier/support.html)
 - [FoldLab](docs/foldlab/support.html)
+- [Waffle Duo](docs/waffle-duo/support.html)
