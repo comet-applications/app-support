@@ -15,3 +15,4 @@ Each app has its own directory under `docs/`. GitHub Pages publishes the
 - [Curio Courier](docs/curio-courier/support.html)
 - [FoldLab](docs/foldlab/support.html)
 - [Waffle Duo](docs/waffle-duo/support.html)
+- [Little Fold](docs/little-fold/support.html)
